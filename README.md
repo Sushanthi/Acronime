@@ -1,4 +1,3 @@
 # Acronime
 
- User can enter an acronym or initialism
- User is then presented with a list of corresponding meanings
+ User can enter an acronym or initialism and is then presented with a list of corresponding meanings
