@@ -1,0 +1,359 @@
+[
+  {
+    "sf": "AIDS",
+    "lfs": [
+      {
+        "lf": "acquired immunodeficiency syndrome",
+        "freq": 10006,
+        "since": 1982,
+        "vars": [
+          {
+            "lf": "acquired immunodeficiency syndrome",
+            "freq": 6689,
+            "since": 1982
+          },
+          {
+            "lf": "acquired immune deficiency syndrome",
+            "freq": 2319,
+            "since": 1982
+          },
+          {
+            "lf": "Acquired immunodeficiency syndrome",
+            "freq": 316,
+            "since": 1982
+          },
+          {
+            "lf": "Acquired Immunodeficiency Syndrome",
+            "freq": 230,
+            "since": 1983
+          },
+          {
+            "lf": "Acquired Immune Deficiency Syndrome",
+            "freq": 218,
+            "since": 1983
+          },
+          {
+            "lf": "Acquired immune deficiency syndrome",
+            "freq": 132,
+            "since": 1982
+          },
+          {
+            "lf": "acquired immune-deficiency syndrome",
+            "freq": 32,
+            "since": 1983
+          },
+          {
+            "lf": "autoimmune deficiency syndrome",
+            "freq": 13,
+            "since": 1989
+          },
+          {
+            "lf": "acquired human immunodeficiency syndrome",
+            "freq": 6,
+            "since": 1997
+          },
+          {
+            "lf": "acquired immunodeficiency syndromes",
+            "freq": 6,
+            "since": 1984
+          },
+          {
+            "lf": "acquired immunedeficiency syndrome",
+            "freq": 6,
+            "since": 1984
+          },
+          {
+            "lf": "Aquired Immune Deficiency Syndrome",
+            "freq": 3,
+            "since": 1986
+          },
+          {
+            "lf": "acquired immune deficiency syndromes",
+            "freq": 3,
+            "since": 1986
+          },
+          {
+            "lf": "acquired-immune-deficiency-syndrome",
+            "freq": 2,
+            "since": 1988
+          },
+          {
+            "lf": "Acquired Immune Deficiency syndrome",
+            "freq": 2,
+            "since": 1983
+          },
+          {
+            "lf": "Acquired Immune-Deficiency Syndrome",
+            "freq": 2,
+            "since": 2006
+          },
+          {
+            "lf": "Acquired Immunodeficiency syndrome",
+            "freq": 2,
+            "since": 1997
+          },
+          {
+            "lf": "Acquired Deficiency Syndrome",
+            "freq": 2,
+            "since": 1996
+          },
+          {
+            "lf": "aquired immune deficiency syndrome",
+            "freq": 2,
+            "since": 1997
+          },
+          {
+            "lf": "acquired-immunodeficiency syndrome",
+            "freq": 2,
+            "since": 1992
+          },
+          {
+            "lf": "acquired immunodeficiency-syndrome",
+            "freq": 1,
+            "since": 1985
+          },
+          {
+            "lf": "Aquired immune deficiency syndrome",
+            "freq": 1,
+            "since": 2003
+          },
+          {
+            "lf": "acquires immunodeficiency syndrome",
+            "freq": 1,
+            "since": 2005
+          },
+          {
+            "lf": "Acquired ImmunoDeficiency Syndrome",
+            "freq": 1,
+            "since": 1997
+          },
+          {
+            "lf": "acquired deficiency syndrome",
+            "freq": 1,
+            "since": 1988
+          },
+          {
+            "lf": "acquired immunodeficiency syndrom",
+            "freq": 1,
+            "since": 2005
+          },
+          {
+            "lf": "Acquired immune deficiency syndromes",
+            "freq": 1,
+            "since": 1983
+          },
+          {
+            "lf": "Acquired Human Immunodeficiency Syndrome",
+            "freq": 1,
+            "since": 1997
+          },
+          {
+            "lf": "acquired immunodeficient syndrome",
+            "freq": 1,
+            "since": 2001
+          },
+          {
+            "lf": "Acquire Immune Deficiency Syndrome",
+            "freq": 1,
+            "since": 1992
+          },
+          {
+            "lf": "acquires immune deficiency syndrome",
+            "freq": 1,
+            "since": 1999
+          },
+          {
+            "lf": "Acquired-immunodeficiency-syndrome",
+            "freq": 1,
+            "since": 1985
+          },
+          {
+            "lf": "acquired immunodeficiency syndroME",
+            "freq": 1,
+            "since": 1987
+          },
+          {
+            "lf": "acquired immunodeficiency syndromE",
+            "freq": 1,
+            "since": 1986
+          },
+          {
+            "lf": "acquired immune deficient syndrome",
+            "freq": 1,
+            "since": 1995
+          },
+          {
+            "lf": "acquired Immune Deficiency Syndrome",
+            "freq": 1,
+            "since": 1995
+          },
+          {
+            "lf": "acquired immunodeficiency  syndrome",
+            "freq": 1,
+            "since": 1989
+          },
+          {
+            "lf": "acquired immunodeficiency Syndrome",
+            "freq": 1,
+            "since": 1993
+          },
+          {
+            "lf": "Acquired Immune deficiency Syndrome",
+            "freq": 1,
+            "since": 1989
+          }
+        ]
+      },
+      {
+        "lf": "acquired immuno-deficiency syndrome",
+        "freq": 128,
+        "since": 1983,
+        "vars": [
+          {
+            "lf": "acquired immuno-deficiency syndrome",
+            "freq": 31,
+            "since": 1983
+          },
+          {
+            "lf": "acquired immunodeficiency virus",
+            "freq": 18,
+            "since": 1990
+          },
+          {
+            "lf": "acquired immunodeficiency disease",
+            "freq": 16,
+            "since": 1986
+          },
+          {
+            "lf": "acquired immunologic deficiency syndrome",
+            "freq": 14,
+            "since": 1984
+          },
+          {
+            "lf": "acquired immuno deficiency syndrome",
+            "freq": 9,
+            "since": 1983
+          },
+          {
+            "lf": "Acquired Immuno-Deficiency Syndrome",
+            "freq": 6,
+            "since": 1986
+          },
+          {
+            "lf": "Acquired Immuno Deficiency Syndrome",
+            "freq": 5,
+            "since": 1989
+          },
+          {
+            "lf": "acquired immunodefiency syndrome",
+            "freq": 4,
+            "since": 1996
+          },
+          {
+            "lf": "aquired immunodeficiency syndrome",
+            "freq": 4,
+            "since": 1987
+          },
+          {
+            "lf": "patients with acquired immune deficiency",
+            "freq": 3,
+            "since": 1984
+          },
+          {
+            "lf": "acquired immunodeficiency disorder",
+            "freq": 3,
+            "since": 2001
+          },
+          {
+            "lf": "Acquired immunologic deficiency syndrome",
+            "freq": 3,
+            "since": 1986
+          },
+          {
+            "lf": "Acquired immunodeficiency virus",
+            "freq": 3,
+            "since": 2000
+          },
+          {
+            "lf": "Acquired immuno deficiency syndrome",
+            "freq": 3,
+            "since": 1985
+          },
+          {
+            "lf": "Acquired Immunodeficiency Disease",
+            "freq": 2,
+            "since": 1985
+          },
+          {
+            "lf": "Acquired immuno-deficiency syndrome",
+            "freq": 2,
+            "since": 1983
+          },
+          {
+            "lf": "Acquired immunodeficiency disease",
+            "freq": 1,
+            "since": 2004
+          },
+          {
+            "lf": "Acquired Immunodeficiency Virus",
+            "freq": 1,
+            "since": 1998
+          }
+        ]
+      },
+      {
+        "lf": "autoimmune diseases",
+        "freq": 9,
+        "since": 2001,
+        "vars": [
+          {
+            "lf": "autoimmune diseases",
+            "freq": 9,
+            "since": 2001
+          }
+        ]
+      },
+      {
+        "lf": "anti-inflammatory drugs",
+        "freq": 3,
+        "since": 2004,
+        "vars": [
+          {
+            "lf": "anti-inflammatory drugs",
+            "freq": 3,
+            "since": 2004
+          }
+        ]
+      },
+      {
+        "lf": "Medical examination of aliens",
+        "freq": 2,
+        "since": 1987,
+        "vars": [
+          {
+            "lf": "Medical examination of aliens",
+            "freq": 2,
+            "since": 1987
+          }
+        ]
+      },
+      {
+        "lf": "Intravenous drug users who present to the Albion Street",
+        "freq": 2,
+        "since": 1990,
+        "vars": [
+          {
+            "lf": "Intravenous drug users who present to the Albion Street",
+            "freq": 1,
+            "since": 1990
+          },
+          {
+            "lf": "Intravenous drug users who presented to the Albion Street",
+            "freq": 1,
+            "since": 1990
+          }
+        ]
+      }
+    ]
+  }
+]
